@@ -21,7 +21,7 @@ msgstr "Utilisateur ou E-mail"
 
 #: ../utilities.php:348 ../utilities.php:357 ../utilities.php:367
 msgid "Get New Password"
-msgstr "Obtenir un nouveau mot de passe"
+msgstr "Réinitialiser"
 
 #: ../utilities.php:388 ../utilities.php:439 ../utilities.php:491
 #: ../utilities.php:539 ../utilities.php:592 ../utilities.php:647
@@ -1925,7 +1925,7 @@ msgstr "Mise à jour des abonnements"
 
 #: ../classes/UserAddEdit.class.php:63
 msgid "Confirm Password"
-msgstr "Mot de passe oublié"
+msgstr "Confirmer le mot de passe"
 
 #: ../classes/UserAddEdit.class.php:64
 msgid "Last Name"
