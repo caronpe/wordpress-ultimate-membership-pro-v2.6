@@ -1020,11 +1020,11 @@ msgstr ""
 
 #: ../admin/includes/tabs/levels.php:348
 msgid "Trial Period Type"
-msgstr "période de grâce"
+msgstr "Type de période d'essai"
 
 #: ../admin/includes/tabs/levels.php:351
 msgid "Certain Period"
-msgstr "période de grâce"
+msgstr "période"
 
 #: ../admin/includes/tabs/levels.php:351
 msgid "Couple cycles subscription payments"
@@ -1032,7 +1032,7 @@ msgstr "Choisissez le type d'abonnement :"
 
 #: ../admin/includes/tabs/levels.php:362
 msgid "Trial Certain Period"
-msgstr "période de grâce"
+msgstr "Période d'essai"
 
 #: ../admin/includes/tabs/levels.php:376
 msgid "Not available for Authorize and 2Checkout."
